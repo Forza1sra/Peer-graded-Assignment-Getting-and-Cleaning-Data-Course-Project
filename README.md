@@ -1,11 +1,11 @@
-#Peer-graded Assignment: Getting and Cleaning Data Course Project
+# Peer-graded Assignment: Getting and Cleaning Data Course Project
 
-##The raw data
+## The raw data
 This project relies on the UCI HAR Dataset whose data is cleaned by the script run_analysis.R. It is assumed that the data set will be in the working
 directory.
 This dataset can be found here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-##Run_analysis.R
+## Run_analysis.R
 
 This script is designed to clean the dataset mentioned above and prepare it for further analysis.
 
@@ -28,8 +28,8 @@ the participant.
 
 9. The now summarized data is recorded to a text file called "tidyTable.txt"
 
-##tidyTable.txt
+## tidyTable.txt
 The output file returned by the script "Run_analysis.R"
 
-##CodeBook.md
+## CodeBook.md
 Contains variable descriptions for the raw data as well as what changed when becoming processed data.
